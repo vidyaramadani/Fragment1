@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     EditText etNama;
     EditText etUmur;
     TextView tvHasil;
+    TextView apa;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
